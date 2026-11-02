@@ -1,2 +1,2 @@
 def main() -> None:
-    print("Hello from projectback world!")
+    print("Hello from projectback!")
